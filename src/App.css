@@ -4,8 +4,8 @@
 }
 
 body {
-  background-color: #f2e9e4;
-  color: black;
+  background-color: black;
+  color: #eee;
 }
 
 main {
@@ -17,7 +17,7 @@ main {
 
 button {
   background-color: transparent;
-  color: black;
+  color: #eee;
   border: 0;
   display: inline-block;
   width: 100px;
@@ -26,7 +26,7 @@ button {
 
 button.with-text {
   width: auto;
-  background-color: white;
+  background-color: black;
   border-radius: 10px;
   padding: 10px 20px;
   font-size: 1.4rem;
